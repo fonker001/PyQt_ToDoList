@@ -1,0 +1,27 @@
+QMainWindow {
+    background-color: #2e2e2e;
+}
+
+QListWidget {
+    border: 1px solid #555555;
+    background-color: #3c3c3c;
+    color: white;
+}
+
+QPushButton {
+    background-color: #555555;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: #6e6e6e;
+}
+
+QLineEdit, QComboBox, QDateEdit {
+    border: 1px solid #555555;
+    padding: 5px;
+    background-color: #3c3c3c;
+    color: white;
+}
